@@ -1,6 +1,6 @@
 # HTML Basics
 ---
-## The "frontend" of a webpage consists of:
+## 깃 연습 The "frontend" of a webpage consists of:
 * HTML = HyperText Markup Language
   * content
 * CSS = Cascading Style Sheet
